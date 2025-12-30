@@ -3,6 +3,6 @@
 亳州农村频道,http://120.210.193.151:8006/120000001002/XMTbznc/1.m3u8
 亳州综合频道,http://120.210.193.151:8006/120000001002/XMTbzxw/1.m3u8
 梨园频道,http://120.210.193.151:8006/120000001002/XMTliyuan/1.m3u8
-CCTV-1 综合,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv1hd4mc/index.m3u8?channel-id=
-CCTV-11 戏曲,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv11/index.m3u8?channel-id=
-安徽卫视,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/ahwshd8m/index.m3u8?channel-id=
+CCTV-1 综合,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv1hd4mc/index.m3u8
+CCTV-11 戏曲,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv11/index.m3u8
+安徽卫视,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/ahwshd8m/index.m3u8
