@@ -6,3 +6,5 @@
 CCTV-1 综合,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv1hd4mc/index.m3u8
 CCTV-11 戏曲,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv11/index.m3u8
 安徽卫视,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/ahwshd8m/index.m3u8
+豫戏之声,http://192.168.1.60:35455/douyin/uid/1745351095
+梨园行戏曲,http://192.168.1.60:35455/douyin/uid/lyh_xq
