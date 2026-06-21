@@ -1,6 +1,0 @@
-世界杯,#genre#
-CCTV5,http://192.168.1.60:8766/cctv5.m3u8
-CCTV16,http://192.168.1.60:8766/cctv16.m3u8
-CCTV16 4K,http://192.168.1.60:8766/cctv164k.m3u8
-CCTV4K,http://192.168.1.60:8766/cctv4k.m3u8
-CCTV8K,http://192.168.1.60:8766/cctv8k.m3u8
